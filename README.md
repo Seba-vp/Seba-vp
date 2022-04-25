@@ -1,7 +1,7 @@
 Hi 👋 My name is Sebastian Villablanca
 ======================================
 
-Industries Engineer IT Major
+Industrial Engineer IT Major
 ----------------------------
 
 I have been programing since the past 5 years, I took several IT related courses during college because of my major . I started with Python and naturally became my favorite programing language, but I learned a few others programming languages like Java Script, Ruby, C# and C mostly because of web development. I have experience working with web development frameworks as Django, Node JS (Express, Koa), Ruby on Rails and React JS and Restful APIs development using Python Restful and NinjaAPI frameworks and RoR. Im currently focusing on expanding my Data Science knowledge mostly.
