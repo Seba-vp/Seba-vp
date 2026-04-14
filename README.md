@@ -1,13 +1,21 @@
-# Sebastian Villablanca
+<h1 align="center">Sebastian Villablanca</h1>
 
-**Senior Software Engineer | Finance & BioTech | Ecommerce Entrepreneur**
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Finance+%26+Fintech+%7C+BioTech+%7C+Ecommerce;8%2B+years+shipping+production+software;Building+Shopify+apps+%26+integrations" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seba-vp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ssebavillablanca@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Seba-vp&style=for-the-badge&color=0891b2&label=Profile+Views" alt="Profile views" />
+</p>
 
 ---
 
 ### About Me
 
 - 8+ years building software — from backend APIs and data pipelines to polished user-facing products
-- Deep experience in **finance and fintech** — designed and shipped software solutions for financial sector clients
+- Deep experience in **finance and fintech** — designed and shipped solutions for financial sector clients
 - **Ecommerce entrepreneur** — I run my own store and spend my free time building **Shopify apps and integrations**
 - Industrial Engineer (IT) from **Pontificia Universidad Catolica de Chile** — analytical rigor meets software engineering
 - I thrive at **small startups** where shipping fast, wearing many hats, and owning outcomes makes a real difference in the team
@@ -18,16 +26,28 @@
 
 ### What I'm Building
 
-<a href="https://github.com/Seba-vp/pulse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seba-vp&repo=pulse&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-<a href="https://github.com/Seba-vp/prop-wizard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Seba-vp&repo=prop-wizard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Pulse</h3>
+      <p align="center">
+        <a href="https://seba-pulse.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_App-seba--pulse.vercel.app-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Pulse Live" /></a>
+        <a href="https://github.com/Seba-vp/pulse" target="_blank"><img src="https://img.shields.io/badge/Source-GitHub-1c1917?style=for-the-badge&logo=github&logoColor=white" alt="Pulse Repo" /></a>
+      </p>
+      <p align="center">Personal command center that brings together GitHub activity, team metrics, finances, and store analytics into a single dashboard. Built with <strong>Next.js, Supabase, and Vercel</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">prop-wizard</h3>
+      <p align="center">
+        <a href="https://prop-wizard.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_App-prop--wizard.vercel.app-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="prop-wizard Live" /></a>
+        <a href="https://github.com/Seba-vp/prop-wizard" target="_blank"><img src="https://img.shields.io/badge/Source-GitHub-1c1917?style=for-the-badge&logo=github&logoColor=white" alt="prop-wizard Repo" /></a>
+      </p>
+      <p align="center">Chilean real estate buy-vs-rent financial analyzer. Makes property investment decisions data-driven with detailed financial modeling and scenario comparison.</p>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-I also build **Shopify apps and integrations** — ecommerce tooling is where I spend most of my side-project energy.
+<p align="center"><em>I also spend my free time building <strong>Shopify apps and integrations</strong> — ecommerce tooling is where most of my side-project energy goes.</em></p>
 
 ---
 
@@ -75,13 +95,11 @@ I also build **Shopify apps and integrations** — ecommerce tooling is where I 
 
 ### GitHub Stats
 
-<a href="http://www.github.com/Seba-vp"><img src="https://github-readme-stats.vercel.app/api?username=Seba-vp&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Seba-vp's GitHub stats" /></a>
+<p align="center">
+  <a href="https://github.com/Seba-vp"><img src="https://streak-stats.demolab.com?user=Seba-vp&theme=dark&hide_border=true&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" alt="GitHub Streak" /></a>
+</p>
 
-<a href="https://github.com/Seba-vp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seba-vp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
----
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seba-vp)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ssebavillablanca@gmail.com)
+<p align="center">
+  <a href="https://github.com/Seba-vp"><img src="https://github-readme-stats.vercel.app/api?username=Seba-vp&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" /></a>
+  <a href="https://github.com/Seba-vp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seba-vp&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" /></a>
+</p>
