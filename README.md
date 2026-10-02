@@ -1,5 +1,5 @@
 <h1 align="center">Sebastian Villablanca</h1>
-<p align="center"><strong>Senior Software Engineer</strong> — Finance &amp; Fintech · AI-native engineering · 8+ years shipping production software</p>
+<p align="center"><strong>Senior Software Engineer</strong> — biotech by day · Chilean fintech, designed and shipped solo, by night</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seba-vp">LinkedIn</a> ·
@@ -9,7 +9,11 @@
 
 ---
 
-Industrial Engineer (IT, Pontificia Universidad Católica de Chile) turned full-stack engineer. Currently a Senior Software Engineer in **biotech**, with a career-long thread through **financial-sector software** — I've designed and shipped systems for finance clients, and now design and ship my own fintech products end-to-end, alone, in my own time.
+Industrial Engineer (IT, Pontificia Universidad Católica de Chile) turned full-stack engineer, 8+ years shipping production software.
+
+**By day** I’m a Senior Software Engineer in biotech, building platform software at scale.
+
+**By night** I build fintech. Not as a side interest — as the whole job: product, architecture, infra, content, SEO and ops, for Chilean personal-finance tools I design, ship and operate alone. The finance thread runs through the day job too; I’ve shipped software for financial-sector clients for years. What changed is that now I own every decision in the stack, and the results are public.
 
 AI-assisted engineering isn't an experiment for me, it's how I build: I use agentic coding workflows daily to go from spec to shipped product — architecture, implementation, infra, content, and ops — at a pace and scope that would normally take a small team. The proof is below, not just the claim.
 
